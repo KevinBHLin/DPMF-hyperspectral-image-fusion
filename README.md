@@ -1,6 +1,5 @@
 @ARTICLE{10044135,
 author={Lin, Baihong and Guo, Yulan},
-
 journal={IEEE Transactions on Geoscience and Remote Sensing},
 title={Deep Hyperspectral and Multispectral Image Fusion via Probabilistic Matrix Factorization},
 year={2023},
