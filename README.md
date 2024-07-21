@@ -6,7 +6,6 @@ year={2023},
 volume={61},  
 number={},  
 pages={1-14},  
-keywords={Bayes methods;Training;Spatial resolution;Optimization;Deep learning;Imaging;Probabilistic logic;Convolutional neural network (CNN)-based Gaussian denoiser;deep prior regularization (DPR);hyperspectral image (HSI) fusion;inertial Proximal Alternating Linearized Minimization (iPALM);probabilistic matrix factorization (PMF)},  
 doi={10.1109/TGRS.2023.3244992}  
 }
 
@@ -18,5 +17,4 @@ doi={10.1109/TGRS.2023.3244992}
   volume={},  
   number={},  
   pages={1440-1443},  
-  keywords={Training;Measurement;Image texture;Noise reduction;Neural networks;Imaging;Geoscience and remote sensing;Hyperspectral image;non-negative ma-trix factorization(NMF);convolutional neural network(CNN);internal proximal alternating linearized minimization (iPALM)},  
   doi={10.1109/IGARSS46834.2022.9883179}}  
